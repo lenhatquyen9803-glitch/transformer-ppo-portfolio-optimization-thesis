@@ -26,7 +26,9 @@ This thesis studies a dynamic portfolio allocation framework in which:
 - `supplementary/`: additional notes and links
 
 ## Supplementary Materials
-Additional figures, outputs, and backup materials will be added here.
+Additional figures, outputs, and backup materials are available in the following Google Drive folder:
+
+[Google Drive Folder](https://drive.google.com/drive/folders/1hJupJTCHF8G7fR4SCTANaSeZ036b-xXH?usp=drive_link)
 
 ## Notes
 This repository is intended to accompany the thesis submission and document the main implementation workflow used in the empirical study.
