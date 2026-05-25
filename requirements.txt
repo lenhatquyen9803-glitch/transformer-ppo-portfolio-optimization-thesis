@@ -1,3 +1,4 @@
+```txt
 numpy
 pandas
 matplotlib
@@ -6,3 +7,6 @@ yfinance
 torch
 gym
 stable-baselines3
+shimmy
+jupyter
+ipykernel
