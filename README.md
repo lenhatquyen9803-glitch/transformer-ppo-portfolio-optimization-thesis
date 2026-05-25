@@ -34,13 +34,14 @@ Additional thesis-related outputs are available in the following Google Drive fo
 
 [Google Drive Folder](https://drive.google.com/drive/folders/1hJupJTCHF8G7fR4SCTANaSeZ036b-xXH?usp=drive_link)
 
+## Notes
+
+This repository is intended to accompany the thesis submission and document the main implementation workflow used in the empirical study. The results should be interpreted within the controlled experimental setting described in the thesis.
+
+
 ## Requirements
 
 Install the required packages with:
 
 ```bash
 pip install -r requirements.txt
-
-## Notes
-
-This repository is intended to accompany the thesis submission and document the main implementation workflow used in the empirical study. The results should be interpreted within the controlled experimental setting described in the thesis.
