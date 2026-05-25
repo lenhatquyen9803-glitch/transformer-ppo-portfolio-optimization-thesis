@@ -1,6 +1,6 @@
 # Transformer-Based DRL for Dynamic Portfolio Allocation
 
-This repository contains the implementation notebooks and supplementary materials for my undergraduate thesis on transformer-based deep reinforcement learning for dynamic portfolio allocation.
+This repository contains the implementation notebooks for my undergraduate thesis on transformer-based deep reinforcement learning for dynamic portfolio allocation.
 
 ## Thesis Focus
 
@@ -19,16 +19,18 @@ This thesis studies a dynamic portfolio allocation framework in which:
 - LSTM-PPO baseline
 - Transformer-PPO model
 - Reward comparison analysis
-- Supplementary robustness analysis
+- Supplementary ten-year robustness analysis
 - Attention-based explainability analysis
 
 ## Repository Contents
 
 The notebooks are numbered according to the main experimental workflow used in the thesis. They cover data preparation, benchmark evaluation, learned model training, result generation, reward-design comparison, supplementary ten-year analysis, and attention-based interpretation.
 
+This repository is kept focused on the implementation workflow. Additional figures, tables, outputs, and backup materials are stored separately in Google Drive.
+
 ## Supplementary Materials
 
-Additional figures, outputs, and backup materials are available in the following Google Drive folder:
+Additional thesis-related outputs are available in the following Google Drive folder:
 
 [Google Drive Folder](https://drive.google.com/drive/folders/1hJupJTCHF8G7fR4SCTANaSeZ036b-xXH?usp=drive_link)
 
@@ -38,3 +40,7 @@ Install the required packages with:
 
 ```bash
 pip install -r requirements.txt
+
+## Notes
+
+This repository is intended to accompany the thesis submission and document the main implementation workflow used in the empirical study. The results should be interpreted within the controlled experimental setting described in the thesis.
