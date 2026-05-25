@@ -32,7 +32,7 @@ This repository is kept focused on the implementation workflow. Additional figur
 
 Additional thesis-related outputs are available in the following Google Drive folder:
 
-[Google Drive Folder](https://drive.google.com/drive/folders/1hJupJTCHF8G7fR4SCTANaSeZ036b-xXH?usp=drive_link)
+[Google Drive Folder](https://drive.google.com/drive/folders/1hJupJTCHF8G7fR4SCTANaSeZ036b-xXH?usp=sharing)
 
 ## Notes
 
