@@ -38,7 +38,6 @@ Additional thesis-related outputs are available in the following Google Drive fo
 
 This repository is intended to accompany the thesis submission and document the main implementation workflow used in the empirical study. The results should be interpreted within the controlled experimental setting described in the thesis.
 
-
 ## Requirements
 
 Install the required packages with:
