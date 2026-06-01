@@ -44,3 +44,9 @@ Install the required packages with:
 
 ```bash
 pip install -r requirements.txt
+
+## QR Code
+
+Scan this QR code to access the repository:
+
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://github.com/lenhatquyen9803-glitch/transformer-ppo-portfolio-optimization-thesis)
