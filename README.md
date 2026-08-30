@@ -33,9 +33,9 @@ The notebooks are numbered according to the main experimental workflow used in t
 
 ## Supplementary Materials
 
-Additional figures, tables, outputs, and backup materials are available in the following Google Drive folder:
+Additional thesis-related outputs are available in the following Google Drive folder:
 
-[Google Drive Folder](https://drive.google.com/drive/folders/1hJupJTCHF8G7fR4SCTANaSeZ036b-xXH?usp=drive_link)
+[Google Drive Folder](https://drive.google.com/drive/folders/1hJupJTCHF8G7fR4SCTANaSeZ036b-xXH?usp=sharing)
 
 ## Notes
 
@@ -47,6 +47,7 @@ Install the required packages with:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## QR Code
 
