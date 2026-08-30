@@ -35,7 +35,7 @@ The notebooks are numbered according to the main experimental workflow used in t
 
 Additional figures, tables, outputs, and backup materials are available in the following Google Drive folder:
 
-[Google Drive Folder](https://drive.google.com/drive/folders/1hJupJTCHF8G7fR4SCTANaSeZ036b-xXH?usp=sharing)
+[Google Drive Folder](https://drive.google.com/drive/folders/1hJupJTCHF8G7fR4SCTANaSeZ036b-xXH?usp=drive_link)
 
 ## Notes
 
