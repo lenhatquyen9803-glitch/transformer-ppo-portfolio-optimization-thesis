@@ -41,6 +41,18 @@ Additional thesis-related outputs are available in the following Google Drive fo
 
 This repository is intended to accompany the thesis submission and document the main implementation workflow used in the empirical study. The results should be interpreted within the controlled experimental setting described in the thesis.
 
+## Copyright and Usage
+
+© 2026 Lê Nhật Quyền. All rights reserved.
+
+This repository is publicly available for academic review, research reference, and portfolio evaluation purposes.
+
+The code, notebooks, thesis materials, figures, and other original contents of this repository may not be reproduced, redistributed, or incorporated into another academic or commercial project without prior permission from the author.
+
+If you reference or build upon this work, please provide appropriate attribution to the original repository and author.
+
+This repository does not grant permission to present these materials as original work for academic submission, publication, or other purposes where authorship or original contribution is claimed by another person.
+
 ## Requirements
 
 Install the required packages with:
