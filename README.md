@@ -26,10 +26,9 @@ This thesis studies a dynamic portfolio allocation framework in which:
 
 The notebooks are numbered according to the main experimental workflow used in the thesis. They cover data preparation, benchmark evaluation, learned model training, result generation, reward-design comparison, supplementary ten-year analysis, and attention-based interpretation.
 
-## Thesis Documents
+## Thesis
 
-- [Thesis Report](Thesis_Report.pdf)
-- [Thesis Presentation](Thesis_Presentation.pdf)
+This repository accompanies my undergraduate thesis and contains the main implementation notebooks, experimental workflow, and supporting research materials.
 
 ## Supplementary Materials
 
